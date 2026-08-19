@@ -60,17 +60,14 @@ const linasan = {
 ## 📊 GitHub 数据
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinAsan-1205&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58D5F7&icon_color=58D5F7&text_color=C9D1D9&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=LinAsan-1205&theme=tokyonight&hide_border=true&background=0D1117&ring=58D5F7&fire=58D5F7&currStreakLabel=58D5F7&sideLabels=C9D1D9&dates=8B949E" height="165" alt="streak" />
+  <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/stats.svg" height="165" alt="stats" />
+  <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/streak.svg" height="165" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinAsan-1205&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58D5F7&text_color=C9D1D9" height="180" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/langs.svg" height="180" alt="top languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LinAsan-1205&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-</div>
 
 ---
 
