@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,19&height=200&section=header&text=三三%20/%20Lin%20A%20San&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=长沙%20·%20开发者%20·%20@LinAsan-1205&descAlignY=62&descAlign=50" alt="header" width="100%" />
+  <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/banner.jpg" alt="三三" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0a3d,50:ff6b9d,100:7dd3fc&height=90&section=header&text=三三%20/%20Lin%20A%20San&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✧%20长沙的夜间开发者%20✧&descAlignY=68&descAlign=50" alt="wave" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58D5F7&center=true&vCenter=true&width=620&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20%E4%B8%89%E4%B8%89%20/%20Lin%20A%20San;%E9%95%BF%E6%B2%99%20%C2%B7%20Changsha%20Developer;Vue%20%2F%20TypeScript%20%2F%20UniApp;%E5%9C%A8%20GitHub%20%E4%B8%8A%E6%85%B2%E6%85%A2%E6%90%AD%E7%A7%AF%E6%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8DC7&center=true&vCenter=true&width=640&lines=%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E6%88%91%E6%98%AF%20%E4%B8%89%E4%B8%89%20%EF%BD%9E;%E9%95%BF%E6%B2%99%20%C2%B7%20%E5%A4%9C%E9%97%B4%E5%87%BA%E6%B2%A1%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Vue%20%2F%20TypeScript%20%2F%20UniApp;%E4%BB%8A%E6%99%9A%E4%B9%9F%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%86%99%E4%BB%A3%E7%A0%81%E5%93%A6" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,20 +16,22 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-LinAsan--1205-181717?style=for-the-badge&logo=github&logoColor=58D5F7)](https://github.com/LinAsan-1205)
-[![Blog](https://img.shields.io/badge/Blog-linasan.cn-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58D5F7)](https://www.linasan.cn)
-[![Location](https://img.shields.io/badge/%E9%95%BF%E6%B2%99-Changsha-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/LinAsan-1205)
-[![Profile views](https://komarev.com/ghpvc/?username=LinAsan-1205&label=Profile%20views&color=0e7fff&style=for-the-badge)](https://github.com/LinAsan-1205)
+[![GitHub](https://img.shields.io/badge/GitHub-LinAsan--1205-2b0a3d?style=for-the-badge&logo=github&logoColor=ff8dc7)](https://github.com/LinAsan-1205)
+[![Blog](https://img.shields.io/badge/Blog-linasan.cn-2b0a3d?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc)](https://www.linasan.cn)
+[![Location](https://img.shields.io/badge/%E9%95%BF%E6%B2%99-Changsha-ff6b9d?style=for-the-badge)](https://github.com/LinAsan-1205)
+[![Profile views](https://komarev.com/ghpvc/?username=LinAsan-1205&label=Profile%20views&color=ff69b4&style=for-the-badge)](https://github.com/LinAsan-1205)
 
 </div>
 
 ---
 
-## 👋 关于我
+<h3 align="center">✧ 关于我 ✧</h3>
 
-嗨，我是 **三三**（Lin A San），长沙的开发者，2017 年来到 GitHub。
-
-平时主要在前端 / 全栈方向打转。博客写在 [linasan.cn](https://www.linasan.cn)。
+<p align="center">
+  嗨，我是 <b>三三</b>（Lin A San）<br />
+  住在长沙的开发者，2017 年来到 GitHub。<br />
+  白天写代码，晚上也写。日常在 <a href="https://www.linasan.cn">linasan.cn</a>
+</p>
 
 ```js
 const linasan = {
@@ -34,6 +40,7 @@ const linasan = {
   location: "长沙",
   site: "https://www.linasan.cn",
   onGitHubSince: 2017,
+  status: "coding under the moonlight",
 };
 ```
 
@@ -47,7 +54,7 @@ const linasan = {
 
 ---
 
-## 🛠️ 技术栈
+<h3 align="center">✧ 技术栈 ✧</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,nestjs,docker,git,github" alt="skills" />
@@ -57,7 +64,7 @@ const linasan = {
 
 ---
 
-## 📊 GitHub 数据
+<h3 align="center">✧ GitHub 数据 ✧</h3>
 
 <div align="center">
   <picture>
@@ -77,10 +84,9 @@ const linasan = {
   </picture>
 </div>
 
-
 ---
 
-## 🐍 贡献贪吃蛇
+<h3 align="center">✧ 贡献贪吃蛇 ✧</h3>
 
 <div align="center">
   <picture>
@@ -95,5 +101,5 @@ const linasan = {
 <p align="center">更多日常写在博客 → <a href="https://www.linasan.cn">www.linasan.cn</a></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,12,19&height=120&section=footer" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:ff6b9d,100:2b0a3d&height=120&section=footer" alt="footer" width="100%" />
 </div>
