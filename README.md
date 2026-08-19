@@ -60,12 +60,21 @@ const linasan = {
 ## 📊 GitHub 数据
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/stats.svg" height="165" alt="stats" />
-  <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/streak.svg" height="165" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/stats.svg" />
+    <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/stats-light.svg" height="165" alt="stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/streak.svg" />
+    <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/streak-light.svg" height="165" alt="streak" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/langs.svg" height="180" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/langs.svg" />
+    <img src="https://raw.githubusercontent.com/LinAsan-1205/LinAsan-1205/output/langs-light.svg" height="180" alt="top languages" />
+  </picture>
 </div>
 
 
