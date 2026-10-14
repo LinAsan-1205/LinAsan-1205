@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8DC7&center=true&vCenter=true&width=640&lines=%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E6%88%91%E6%98%AF%20%E4%B8%89%E4%B8%89%20%EF%BD%9E;%E9%95%BF%E6%B2%99%20%C2%B7%20%E5%A4%9C%E9%97%B4%E5%87%BA%E6%B2%A1%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Vue%20%2F%20TypeScript%20%2F%20UniApp;%E4%BB%8A%E6%99%9A%E4%B9%9F%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%86%99%E4%BB%A3%E7%A0%81%E5%93%A6" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF8DC7&center=true&vCenter=true&width=760&lines=%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E6%88%91%E6%98%AF%20%E4%B8%89%E4%B8%89%20%EF%BD%9E;%E9%95%BF%E6%B2%99%20%C2%B7%20%E5%A4%9C%E9%97%B4%E5%87%BA%E6%B2%A1%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85;Vue%20%2F%20React%20%2F%20TypeScript%20%2F%20Rust%20%2F%20Electron%20%2F%20UniApp;%E4%BB%8A%E6%99%9A%E4%B9%9F%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%86%99%E4%BB%A3%E7%A0%81%E5%93%A6" alt="Typing SVG" />
   </a>
 </div>
 
@@ -57,10 +57,36 @@ const linasan = {
 <h3 align="center">✧ 技术栈 ✧</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,nestjs,docker,git,github" alt="skills" />
+  <img alt="前端" src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-ff6b9d?style=for-the-badge" />
+  <br /><br />
+  <img alt="Vue, React, TypeScript, JavaScript, Vite, Pinia" src="https://skillicons.dev/icons?i=vue,react,ts,js,vite,pinia&perline=6" />
+  <br /><br />
+  Vue 3 · React · TypeScript · JavaScript · Vite · Pinia · UnoCSS
 </p>
 
-<p align="center">Vue 3 · TypeScript · Vite · UniApp · Pinia · UnoCSS · NestJS · Node.js · Docker</p>
+<p align="center">
+  <img alt="跨端与桌面" src="https://img.shields.io/badge/%E8%B7%A8%E7%AB%AF_%26_%E6%A1%8C%E9%9D%A2-2b0a3d?style=for-the-badge" />
+  <br /><br />
+  <img alt="Electron" src="https://skillicons.dev/icons?i=electron" />
+  <br /><br />
+  UniApp · Electron
+</p>
+
+<p align="center">
+  <img alt="后端" src="https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-7dd3fc?style=for-the-badge" />
+  <br /><br />
+  <img alt="Node.js, NestJS, Rust" src="https://skillicons.dev/icons?i=nodejs,nestjs,rust&perline=3" />
+  <br /><br />
+  Node.js · NestJS · Rust
+</p>
+
+<p align="center">
+  <img alt="工具与部署" src="https://img.shields.io/badge/%E5%B7%A5%E5%85%B7_%26_%E9%83%A8%E7%BD%B2-ff8dc7?style=for-the-badge" />
+  <br /><br />
+  <img alt="Docker, Git, GitHub" src="https://skillicons.dev/icons?i=docker,git,github&perline=3" />
+  <br /><br />
+  Docker · Git · GitHub
+</p>
 
 ---
 
