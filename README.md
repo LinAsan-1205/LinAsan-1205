@@ -75,9 +75,9 @@ const linasan = {
 <p align="center">
   <img alt="后端" src="https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-7dd3fc?style=for-the-badge" />
   <br /><br />
-  <img alt="Node.js, NestJS, Rust" src="https://skillicons.dev/icons?i=nodejs,nestjs,rust&perline=3" />
+  <img alt="Node.js, NestJS, Java, Rust" src="https://skillicons.dev/icons?i=nodejs,nestjs,java,rust&perline=4" />
   <br /><br />
-  Node.js · NestJS · Rust
+  Node.js · NestJS · Java · Rust
 </p>
 
 <p align="center">
